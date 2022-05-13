@@ -1,0 +1,81 @@
+# Blender MTL File: 'Medieval_cart_2_0.blend'
+# Material Count: 6
+
+newmtl Fire_lamp_2_0
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Glass_lamp_2_0
+Ns 900.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.500000
+illum 6
+map_Bump Glass_lamp_2_0\\Medieval_cart_0_Glass_lamp_1_0_Normal.png
+map_Kd Glass_lamp_2_0\\Medieval_cart_0_Glass_lamp_1_0_BaseColor.png
+map_Ns Glass_lamp_2_0\\Medieval_cart_0_Glass_lamp_1_0_Roughness.png
+map_d Glass_lamp_2_0\\RGBMedieval_cart_0_Glass_lamp_1_0_Opacity.png
+refl Glass_lamp_2_0\\Medieval_cart_0_Glass_lamp_1_0_Metallic.png
+
+newmtl Metal_lamp_2_0
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Metal_lamp_2_0\\Medieval_cart_0_Metal_lamp_1_0_Normal.png
+map_Kd Metal_lamp_2_0\\Medieval_cart_0_Metal_lamp_1_0_BaseColor.png
+map_Ns Metal_lamp_2_0\\Medieval_cart_0_Metal_lamp_1_0_Roughness.png
+refl Metal_lamp_2_0\\Medieval_cart_0_Metal_lamp_1_0_BaseColor.png
+
+newmtl Metal_wheel_2_0
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Metal_wheel_2_0\\Medieval_cart_2_0_Metal_wheel_2_0_Normal.png
+map_Kd Metal_wheel_2_0\\Medieval_cart_2_0_Metal_wheel_2_0_BaseColor.png
+map_Ns Metal_wheel_2_0\\Medieval_cart_2_0_Metal_wheel_2_0_Roughness.png
+refl Metal_wheel_2_0\\Medieval_cart_2_0_Metal_wheel_2_0_BaseColor.png
+
+newmtl Rope_2_0
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 10.000000 Rope_2_0\\TexturesCom_Rope_NaturalSisal_512_normal.tif
+map_Ns Rope_2_0\\TexturesCom_Rope_NaturalSisal_512_roughness.tif
+
+newmtl Wood_cart_2_0
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Wood_cart_2_0\\Medieval_cart_2_0_Wood_cart_2_0_Normal.png
+map_Kd Wood_cart_2_0\\Medieval_cart_2_0_Wood_cart_2_0_BaseColor.png
+map_Ns Wood_cart_2_0\\Medieval_cart_2_0_Wood_cart_2_0_Roughness.png
+refl Wood_cart_2_0\\Medieval_cart_2_0_Wood_cart_2_0_Metallic.png

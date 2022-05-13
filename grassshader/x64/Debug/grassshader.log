@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\kaush\OneDrive\Desktop\ComputerGraphics\Shader\grassshader\grassshader\main.cpp(55,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\kaush\OneDrive\Desktop\ComputerGraphics\Shader\grassshader\grassshader\main.cpp(56,24): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\kaush\OneDrive\Desktop\ComputerGraphics\Shader\grassshader\grassshader\main.cpp(126,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kaush\OneDrive\Desktop\ComputerGraphics\Shader\grassshader\grassshader\main.cpp(176,71): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  grassshader.vcxproj -> C:\Users\kaush\OneDrive\Desktop\ComputerGraphics\Shader\grassshader\x64\Debug\grassshader.exe
